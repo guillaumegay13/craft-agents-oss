@@ -1,0 +1,24 @@
+apps/electron/src/renderer/components/apisetup/ApiKeyInput.tsx
+  s_9d45973d0d5036::t_2268c7605d56ff 307
+  s_9d45973d0d5036::t_3f479b34dffe92 305-306
+  s_9d45973d0d5036::t_5026bd53729de6 406-412,414
+  s_9d45973d0d5036::t_1a9471bcaa6cc3 114-115,117
+  s_9d45973d0d5036::t_e2272243f368ba 116,121-126
+  s_9d45973d0d5036::t_eb6934466bfb28 247-253
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "924d85d70cd34c44e8550c3518b7d3164c34c6cc",
+  "prompts": {},
+  "sessions": {
+    "s_9d45973d0d5036": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "039aa27a-ad69-44de-b310-541bb77cac9b",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Guillaume Gay <guillaume.gay@protonmail.com>"
+    }
+  }
+}
