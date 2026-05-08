@@ -1,0 +1,21 @@
+apps/electron/src/renderer/lib/provider-icons.ts
+  s_9d45973d0d5036::t_b2ba2ea23772c5 24
+apps/electron/src/renderer/pages/settings/AiSettingsPage.tsx
+  s_9d45973d0d5036::t_14d10e9309ba48 42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "459f43ff78e1ab6cc45bea24702c0b601c3315f3",
+  "prompts": {},
+  "sessions": {
+    "s_9d45973d0d5036": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "039aa27a-ad69-44de-b310-541bb77cac9b",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Guillaume Gay <guillaume.gay@protonmail.com>"
+    }
+  }
+}
