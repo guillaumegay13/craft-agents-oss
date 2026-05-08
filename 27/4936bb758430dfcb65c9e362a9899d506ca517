@@ -1,0 +1,27 @@
+apps/electron/src/renderer/pages/settings/AiSettingsPage.tsx
+  s_9d45973d0d5036::t_7d92685f9438f9 236-239
+  s_9d45973d0d5036::t_c76bbed63e4606 240
+  s_9d45973d0d5036::t_5a51966438136f 977
+packages/server-core/src/handlers/rpc/llm-connections.ts
+  s_9d45973d0d5036::t_4db0d4ddf7c57c 119,123
+  s_9d45973d0d5036::t_fbf5855225eed8 120-122
+apps/electron/src/renderer/lib/provider-icons.ts
+  s_9d45973d0d5036::t_815424686968c7 73
+  s_9d45973d0d5036::t_580fdac167a6cf 171-174
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "274936bb758430dfcb65c9e362a9899d506ca517",
+  "prompts": {},
+  "sessions": {
+    "s_9d45973d0d5036": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "039aa27a-ad69-44de-b310-541bb77cac9b",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Guillaume Gay <guillaume.gay@protonmail.com>"
+    }
+  }
+}
