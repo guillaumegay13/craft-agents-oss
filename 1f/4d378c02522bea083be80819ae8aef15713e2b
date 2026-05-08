@@ -1,0 +1,34 @@
+apps/electron/src/renderer/pages/settings/AiSettingsPage.tsx
+  s_9d45973d0d5036::t_14d10e9309ba48 42
+  s_9d45973d0d5036::t_c76bbed63e4606 237-242
+  s_9d45973d0d5036::t_1c97e9fb8a04ef 979
+packages/server-core/src/handlers/rpc/llm-connections.ts
+  s_9d45973d0d5036::t_9c4d34e1870870 2
+  s_9d45973d0d5036::t_4db0d4ddf7c57c 119-125
+apps/electron/src/renderer/lib/provider-icons.ts
+  s_9d45973d0d5036::t_b2ba2ea23772c5 24
+  s_9d45973d0d5036::t_a6ad5c7a9fdae9 66-69,81-83
+  s_9d45973d0d5036::t_260ff2a3d1deec 179-181
+packages/shared/src/config/compat-brands.ts
+  s_9d45973d0d5036::t_b578b6de223e22 1-48
+packages/shared/src/config/__tests__/compat-brands.test.ts
+  s_9d45973d0d5036::t_0e454d706bf516 1-29
+packages/shared/src/config/index.ts
+  s_9d45973d0d5036::t_7a79d8c766d581 12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "1f4d378c02522bea083be80819ae8aef15713e2b",
+  "prompts": {},
+  "sessions": {
+    "s_9d45973d0d5036": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "039aa27a-ad69-44de-b310-541bb77cac9b",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Guillaume Gay <guillaume.gay@protonmail.com>"
+    }
+  }
+}
